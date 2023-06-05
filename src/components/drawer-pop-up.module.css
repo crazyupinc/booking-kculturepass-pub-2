@@ -1,0 +1,75 @@
+@keyframes slide-in-right {
+  0% {
+    transform: translateX(200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.about,
+.event {
+  font-weight: 700;
+}
+.about:hover,
+.concert:hover {
+  color: var(--main-blue);
+}
+.about,
+.concert,
+.event {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-noto-sans-kr);
+  color: var(--text-black);
+  text-align: center;
+  display: inline-block;
+}
+.concertParent {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0) var(--padding-smi);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.eventParent {
+  align-items: flex-start;
+  gap: var(--gap-8xs);
+}
+.aboutParent,
+.drawerPopUpInner,
+.eventParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.aboutParent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.drawerPopUpInner {
+  position: absolute;
+  top: 46px;
+  left: 46px;
+  width: 272px;
+  align-items: center;
+}
+.drawerPopUp {
+  position: relative;
+  background-color: var(--basic-white);
+  width: 360px;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 90%;
+}
+.drawerPopUp.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-right;
+}

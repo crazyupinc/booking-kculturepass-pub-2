@@ -1,0 +1,131 @@
+.icon {
+  border-radius: var(--br-71xl);
+  width: 41px;
+  height: 41px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div,
+.fan {
+  position: relative;
+  line-height: 24px;
+}
+.div {
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--grey);
+}
+.fanParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.sheIsSuch {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--grey);
+}
+.frameParent,
+.iconParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.iconParent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.icon1,
+.inputfield {
+  box-sizing: border-box;
+}
+.icon1 {
+  border-radius: var(--br-71xl);
+  background-color: #735469;
+  border: 1px solid var(--color-lightgray);
+  width: 41px;
+  height: 41px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.inputfield {
+  border: 1px solid var(--light-grey);
+  background-color: var(--basic-white);
+  flex: 1;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 54.17%;
+  width: 54.17%;
+  top: 4.17%;
+  right: 4.17%;
+  bottom: 41.67%;
+  left: 41.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 91.67%;
+  width: 91.67%;
+  bottom: 4.17%;
+  left: 4.17%;
+}
+.send {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.commentPopup,
+.inputfieldParent {
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.inputfieldParent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  align-items: center;
+}
+.commentPopup {
+  position: relative;
+  background-color: var(--basic-white);
+  width: 388px;
+  flex-direction: column;
+  padding: var(--padding-7xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-noto-sans-kr);
+}
