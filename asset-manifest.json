@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/booking-kculturepass-pub-2/static/css/main.2067bd87.css",
+    "main.js": "/booking-kculturepass-pub-2/static/js/main.11e702c1.js",
+    "static/js/787.7d27ff54.chunk.js": "/booking-kculturepass-pub-2/static/js/787.7d27ff54.chunk.js",
+    "static/media/eventdetail@3x.png": "/booking-kculturepass-pub-2/static/media/eventdetail@3x.68c11b000438866cba34.png",
+    "static/media/customerservicefaq@3x.png": "/booking-kculturepass-pub-2/static/media/customerservicefaq@3x.b37293da01b79e621cc9.png",
+    "static/media/cartadded@3x.png": "/booking-kculturepass-pub-2/static/media/cartadded@3x.57bd807c0663b9a7c55b.png",
+    "static/media/eventexhibitionexperience@3x.png": "/booking-kculturepass-pub-2/static/media/eventexhibitionexperience@3x.47eb9d3ffd0335317c85.png",
+    "static/media/eventfestival@3x.png": "/booking-kculturepass-pub-2/static/media/eventfestival@3x.f21475d58bdbb32ca1d4.png",
+    "static/media/intro@3x.png": "/booking-kculturepass-pub-2/static/media/intro@3x.2997102f34cd3a3ce999.png",
+    "static/media/customerserviceinquiry@3x.png": "/booking-kculturepass-pub-2/static/media/customerserviceinquiry@3x.3c885da2461597afdaa3.png",
+    "static/media/customerservicenotice@3x.png": "/booking-kculturepass-pub-2/static/media/customerservicenotice@3x.aa727f7d38aa71d02ec6.png",
+    "static/media/cartempty@3x.png": "/booking-kculturepass-pub-2/static/media/cartempty@3x.51e3064e7086053472a2.png",
+    "static/media/eventconcert@3x.png": "/booking-kculturepass-pub-2/static/media/eventconcert@3x.777b92ce169362718d67.png",
+    "static/media/termsconditions@3x.png": "/booking-kculturepass-pub-2/static/media/termsconditions@3x.cde158ab18cf2f4287b6.png",
+    "static/media/image14@3x.png": "/booking-kculturepass-pub-2/static/media/image14@3x.2c83ddf3e6a3ad1d2fdb.png",
+    "static/media/myartisthome@3x.png": "/booking-kculturepass-pub-2/static/media/myartisthome@3x.a2a0ec786d11204dfc3a.png",
+    "static/media/myartistvideo@3x.png": "/booking-kculturepass-pub-2/static/media/myartistvideo@3x.d3c1d8492838a9cfc9ae.png",
+    "static/media/img11@3x.png": "/booking-kculturepass-pub-2/static/media/img11@3x.744d074fd8112e9d34ea.png",
+    "static/media/myartistmessage@3x.png": "/booking-kculturepass-pub-2/static/media/myartistmessage@3x.fc965d3ec261f130d912.png",
+    "static/media/image22@3x.png": "/booking-kculturepass-pub-2/static/media/image22@3x.755e7af8a089120145d2.png",
+    "static/media/image21@3x.png": "/booking-kculturepass-pub-2/static/media/image21@3x.549af5337e24eacce51f.png",
+    "index.html": "/booking-kculturepass-pub-2/index.html",
+    "main.2067bd87.css.map": "/booking-kculturepass-pub-2/static/css/main.2067bd87.css.map",
+    "main.11e702c1.js.map": "/booking-kculturepass-pub-2/static/js/main.11e702c1.js.map",
+    "787.7d27ff54.chunk.js.map": "/booking-kculturepass-pub-2/static/js/787.7d27ff54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2067bd87.css",
+    "static/js/main.11e702c1.js"
+  ]
+}
