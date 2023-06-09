@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/booking-kculturepass-pub-2/static/css/main.2067bd87.css",
-    "main.js": "/booking-kculturepass-pub-2/static/js/main.11e702c1.js",
+    "main.js": "/booking-kculturepass-pub-2/static/js/main.c85d604f.js",
     "static/js/787.7d27ff54.chunk.js": "/booking-kculturepass-pub-2/static/js/787.7d27ff54.chunk.js",
     "static/media/eventdetail@3x.png": "/booking-kculturepass-pub-2/static/media/eventdetail@3x.68c11b000438866cba34.png",
     "static/media/customerservicefaq@3x.png": "/booking-kculturepass-pub-2/static/media/customerservicefaq@3x.b37293da01b79e621cc9.png",
@@ -23,11 +23,11 @@
     "static/media/image21@3x.png": "/booking-kculturepass-pub-2/static/media/image21@3x.549af5337e24eacce51f.png",
     "index.html": "/booking-kculturepass-pub-2/index.html",
     "main.2067bd87.css.map": "/booking-kculturepass-pub-2/static/css/main.2067bd87.css.map",
-    "main.11e702c1.js.map": "/booking-kculturepass-pub-2/static/js/main.11e702c1.js.map",
+    "main.c85d604f.js.map": "/booking-kculturepass-pub-2/static/js/main.c85d604f.js.map",
     "787.7d27ff54.chunk.js.map": "/booking-kculturepass-pub-2/static/js/787.7d27ff54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2067bd87.css",
-    "static/js/main.11e702c1.js"
+    "static/js/main.c85d604f.js"
   ]
 }
